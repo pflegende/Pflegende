@@ -1,13 +1,15 @@
 <br><br><br><br>
 
-Pflegende Angehörige - care giving relatives
+<b>Pflegende Angehörige - care giving relatives</b>
 <br><br><br>
-Pflegende Angehörige tragen teils existenzbedrohliche Lasten der Defizite in Pflege und Gesundheitswesen. Informiertheit zu pflegefachlichen, medizinischen und rechtlichen Aspekten ist EIN Versuch sich gegen das Ohnmachtsgefühl bei der Betreuung unserer Angehörigen zur Wehr zu setzen. Eine erprobte wichtige andere Möglichkeit ist der Austausch unter Betroffenen: In Erfurt am 2. Do. im Monat. Details zur Selbshilfegruppe der Angehörigen bei der Alzheimergesellschaft: Tel. 0361 60255744
+Pflegende Angehörige tragen teils existenzbedrohliche Lasten der Defizite in Pflege und Gesundheitswesen. Informiertheit zu pflegefachlichen, medizinischen und rechtlichen Aspekten ist EIN Versuch sich gegen das Ohnmachtsgefühl bei der Betreuung unserer Angehörigen zur Wehr zu setzen. Eine erprobte wichtige andere Möglichkeit ist der Austausch unter Betroffenen: In Erfurt am 2. Do. im Monat. 
+<br>Details zur Selbshilfegruppe der Angehörigen bei der Alzheimergesellschaft: 
+<br>Tel. 0361 60255744
 <br><br>
 Ein pad im Lesemodus ist das vorläufige Kommunikationsmedium im Netz:
 <br>
  <a href="https://edupad.ch/p/r.dce12f8d0714a1b8e96247a64af1ede1">  ->> häufig aktualisiertes Pad mit Ort und Zeit für nächsten Treff <<-  </a> 
-<br>
+<br><br>
 GitHub ist als Tool für
 <ol>
   <li>a) Planungsarbeit (Jahresplanfortschreibung durch das Org-Kollektiv)</li>

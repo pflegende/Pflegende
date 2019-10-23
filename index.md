@@ -7,7 +7,6 @@ Pflegende Angehörige tragen teils existenzbedrohliche Lasten der Defizite in Pf
 Ein pad im Lesemodus ist das vorläufige Kommunikationsmedium im Netz:
 <br>
  <a href="https://edupad.ch/p/r.dce12f8d0714a1b8e96247a64af1ede1">  ->> häufig aktualisiertes Pad mit Ort und Zeit für nächsten Treff <<-  </a> 
-https://edupad.ch/p/r.dce12f8d0714a1b8e96247a64af1ede1
 <br>
 GitHub ist als Tool für a) Planungsarbeit (Jahresplanfortschreibung durch das Org-Kollektiv) b) WebSpace für die NICHT-personenbezogenen Daten c) Skripting i.V.m. der (zukünftigen) Website d) konzeptionelle Arbeit: e.g. Defizitinventur Pflege und Gesundheitswesen, best practice Pflege Demenzbetroffener, etc. e) Vorschläge sind willkommen: -> https://edupad.ch/p/sg-recommandation-pub
 <br>

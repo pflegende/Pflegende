@@ -6,9 +6,14 @@ Pflegende Angehörige tragen teils existenzbedrohliche Lasten der Defizite in Pf
 
 Ein pad im Lesemodus ist das vorläufige Kommunikationsmedium im Netz: https://edupad.ch/p/r.dce12f8d0714a1b8e96247a64af1ede1
 
-GitHub ist als Tool für a) Planungsarbeit (Jahresplanfortschreibung durch das Org-Kollektiv) b) WebSpace für die NICHT-personenbezogenen Daten c) Skripting i.V.m. der (zukünftigen) Website d) konzeptionelle Arbeit: e.g. Defizitinventur Pflege und Gesundheitswesen, best practice Pflege Demenzbetroffener, etc. e) Vorschläge sind willkommen: -> https://edupad.ch/p/sg-recommandation-pub  gern auch in https://github.com/pflegende/Pflegende/issues
+GitHub ist als Tool für 
+- a) Planungsarbeit (Jahresplanfortschreibung durch die Sachwalter aka das Org-Kollektiv) 
+- b) WebSpace für die NICHT-personenbezogenen Daten 
+- c) Skripting i.V.m. der (zukünftigen) Website 
+- d) konzeptionelle Arbeit: e.g. Defizitinventur Pflege und Gesundheitswesen, best practice Pflege Demenzbetroffener, etc. 
+- e) Vorschläge sind willkommen: -> https://edupad.ch/p/sg-recommandation-pub  gern auch in https://github.com/pflegende/Pflegende/issues
 
-¯_(ツ)_/¯
+¯\\_(ツ)_/¯
 
 CU
 

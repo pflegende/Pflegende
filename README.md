@@ -46,5 +46,6 @@ Is everything in operation?
 ![Uptime Robot status](https://img.shields.io/uptimerobot/status/m790130965-192d351d97c75b777fe68ebd?label=alparis)
 ![_not visible_](https://img.shields.io/website?down_color=red&down_message=sorry_down_call_us&label=Website%20Pflegende%20&up_color=green&up_message=up&url=https%3A%2F%2Fdemenzpflaster.joomla.com)  
 
+![](https://komarev.com/ghpvc/?username=pflegende)
 ---
 🚧🚧🚧 :EOF: 🚧🚧🚧

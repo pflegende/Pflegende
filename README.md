@@ -47,5 +47,12 @@ Is everything in operation?
 ![_not visible_](https://img.shields.io/website?down_color=red&down_message=sorry_down_call_us&label=Website%20Pflegende%20&up_color=green&up_message=up&url=https%3A%2F%2Fdemenzpflaster.joomla.com)  
 
 ![](https://komarev.com/ghpvc/?username=pflegende)
+
+## License
+
+![cc license](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/) license.
+
 ---
 🚧🚧🚧 :EOF: 🚧🚧🚧

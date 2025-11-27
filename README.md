@@ -1,8 +1,8 @@
 # Pflegende
-## deactivated
-11.1.2024, 18:30
+## active
+28.11.2025, 00:30:21
 
-## old
+## this()=real
 anchor for Infosite
 Pflegende Angehörige - care giving relatives
 
